@@ -13,7 +13,7 @@ Semantic Specialization of Word Representation for Individual Word Senses
 
 3. When run the retrofitting model, please filter all "# If" and manually change the setting following the comments.
 
-## Initial Datasets
+## Initial Datasets:
 
 1. WordNet https://wordnet.princeton.edu/
 
